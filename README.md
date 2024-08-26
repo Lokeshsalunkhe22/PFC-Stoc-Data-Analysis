@@ -1,2 +1,3 @@
 # PFC-Stoc-Data-Analysis
-![Screenshot 2024-08-26 100506](https://github.com/user-attachments/assets/1ea75dfd-e382-4ea6-8ec4-2d1585a5dfdb)
+
+![Screenshot 2024-08-26 124133](https://github.com/user-attachments/assets/3c4860bf-46bb-4e07-ad25-d774f21b7e36)
